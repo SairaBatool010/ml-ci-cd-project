@@ -1,3 +1,4 @@
+print("🚀 Script started...")  
 import mlflow
 import mlflow.sklearn
 from sklearn.ensemble import RandomForestRegressor
